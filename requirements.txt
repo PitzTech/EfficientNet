@@ -1,8 +1,12 @@
 # Requisitos para o Projeto EfficientNet
 
+# Instale PyTorch com suporte a CUDA
+# Visite https://pytorch.org/get-started/locally/ para versão exata
+
 # Bibliotecas principais de Deep Learning
-torch==2.1.2
-torchvision==0.16.2
+torch
+torchvision
+numpy
 
 # Para instalação, execute:
 # pip install -r requirements.txt

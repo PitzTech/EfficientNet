@@ -1,5 +1,8 @@
 # Instrução de Instalação do Projeto EfficientNet
 
+# Instale PyTorch com suporte a CUDA
+# Visite https://pytorch.org/get-started/locally/ para versão exata
+
 ## Pré-requisitos
 - Python 3.8 ou superior
 - pip
